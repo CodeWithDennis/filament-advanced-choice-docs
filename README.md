@@ -1,6 +1,6 @@
 # Filament Advanced Choice
 
-Beautifully styled radio and checkbox group components for FilamentPHP with descriptions and modern design.
+Enhance your **FilamentPHP 4** forms with 4 beautifully styled radio button components and 4 modern checkbox components. Each comes with clear descriptions and fresh, user-friendly design to improve form usability and engagement.
 
 ![thumbnail.png](art/thumbnail.png)
 
