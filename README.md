@@ -4,7 +4,7 @@ Enhance your **FilamentPHP 4** forms with 4 beautifully styled radio button comp
 
 ![thumbnail.png](art/thumbnail.png)
 
-[Live Demo](https://plugins.codewithdennis.com/admin/login)
+[Live Demo](https://codewithdennis.com)
 
 ## Licences
 You can buy a license for the plugin on the [AnyStack](https://checkout.anystack.sh/filament-advanced-choice) website.
@@ -211,7 +211,7 @@ RadioStackedCards::make('delivery_type')
 
 ### Searchable Options
 
-All checkbox components support searchable functionality to help users find options quickly in large lists.
+All checkbox and radio components support searchable functionality to help users find options quickly in large lists.
 
 ```php
 CheckboxList::make('delivery_type')
