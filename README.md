@@ -350,10 +350,15 @@ CheckboxCards::make('delivery_type')
     ->hiddenInputs()
 ```
 
+### Hidden input icon
+
+By default, the hidden input icon for card components is `heroicon-o-check`. You can override it with a different icon, for example:
+
 ```php
-CheckboxCards::make('delivery_type')
+RadioCards::make('delivery_type')
     ->options(DeliveryTypeEnum::class)
-    ->visibleInputs()
+    ->hiddenInputIcon('heroicon-o-chevron-double-down') // Heroicon::ChevronDoubleDown
+    ->hiddenInputs()
 ```
 
 ### Colors
