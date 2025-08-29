@@ -352,7 +352,7 @@ CheckboxCards::make('delivery_type')
 
 ### Hidden input icon
 
-By default, the hidden input icon for card components is `heroicon-o-check`. You can override it with a different icon, for example:
+By default, the hidden input icon for card components is `heroicon-s-check-circle`. You can override it with a different icon, for example:
 
 ```php
 RadioCards::make('delivery_type')
